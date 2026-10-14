@@ -1,1 +1,5 @@
-# cs101-version-control-392
+# My CS Profile
+
+## About Me
+- Name: MOngkhol Anantao
+- Major: Computer Science
