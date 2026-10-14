@@ -14,5 +14,6 @@
 - Game Development
 
 ## Skills
--
--
+- Problem solving
+- Python basics
+- eamwork
