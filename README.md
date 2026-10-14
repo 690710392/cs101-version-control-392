@@ -1,3 +1,9 @@
+# My CS Profile
+
+## About Me
+- Name: Mongkhol Anantao
+- Major: Computer Science
+  
 ## My Learning Goals
 - Learn Python programming
 - Learn Git and GitHub
