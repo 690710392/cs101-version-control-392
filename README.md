@@ -9,5 +9,10 @@
 - Learn Git and GitHub
 - Build a personal website
 
+## Technology Interests
+- Artificial Intelligence
+- Game Development
 
 ## Skills
+-
+-
